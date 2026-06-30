@@ -161,7 +161,7 @@ See the **LICENSE** file for details.
 
 King Abdulaziz University
 
-📧 **Email:** [scifinel@gmail.com](mailto:scifinel@gmail.com)
+📧 **Email:** [nalmaktoum0001@stu.kau.edu.sa](mailto:nalmaktoum0001@stu.kau.edu.sa)
 
 🔗 **ORCID:** [https://orcid.org/0009-0007-9887-0280](https://orcid.org/0009-0007-9887-0280)
 
